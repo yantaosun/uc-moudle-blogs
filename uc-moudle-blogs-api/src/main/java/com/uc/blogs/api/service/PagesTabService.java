@@ -1,0 +1,1 @@
+package com.uc.blogs.api.service;import com.uc.blogs.api.entity.UcPagesTab;import com.uc.blogs.api.moudle.Menu;import java.util.List;public interface PagesTabService {    /**     * 查询固定ID的页面导航签     * @param userId     * @return     */    List<Menu> findAllNormalTabsByUser(Integer userId) throws Exception;}

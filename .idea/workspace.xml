@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38232083-952b-459d-8d35-eaef675cbc94" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven/m2/repository" />
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.6.1" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/备份/maven/settings-ucs.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yvid8fcxeLj2bNKz4n5NOAPK8n" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uc-moudle-blogs-provider/src/main/java/com/uc/moudle/blogs/provider/config/requestbodyhandler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4045977" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.uc.moudle.blogs.provider.config.spring" />
+      <recent name="com.uc.moudle.blogs.provider.config.interceptors" />
+      <recent name="constant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uc-moudle-blogs-provider/src/main/java/com/uc/moudle/blogs/provider/config/requestbodyhandler" />
+      <recent name="$PROJECT_DIR$/uc-moudle-blogs-provider/src/main/resources/mappers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UcMoudleBlogsProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="uc-moudle-blogs-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.uc.moudle.blogs.provider.UcMoudleBlogsProviderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38232083-952b-459d-8d35-eaef675cbc94" name="Default Changelist" comment="" />
+      <created>1583829552626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583829552626</updated>
+      <workItem from="1583829554493" duration="921000" />
+      <workItem from="1583830655082" duration="6546000" />
+      <workItem from="1583891252979" duration="1602000" />
+      <workItem from="1583895462414" duration="2448000" />
+      <workItem from="1583898111349" duration="9527000" />
+      <workItem from="1583913117223" duration="10316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

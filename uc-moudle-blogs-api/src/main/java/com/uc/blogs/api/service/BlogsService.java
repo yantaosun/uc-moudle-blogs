@@ -1,0 +1,1 @@
+package com.uc.blogs.api.service;import com.uc.blogs.api.entity.UcBlogs;import com.uc.blogs.api.moudle.BlogIndexMoudle;import java.util.List;/** * 博客service */public interface BlogsService {    List<UcBlogs> findBlogsByUserId(Integer status, Integer userId) throws Exception;    UcBlogs blogDetail (Integer blogId) throws Exception;}

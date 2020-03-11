@@ -1,0 +1,1 @@
+package com.uc.blogs.api.constant;/** * @author 9527 * @ClassName RedisPrefixConstant * @Date 2020/3/10 * @Description TODO * @Version 1.0 */public class RedisPrefixConstant {    public static final String TAB_PREFIX = "tab_prefix_";}
