@@ -1,0 +1,1 @@
+package com.uc.blogs.api.service;import com.uc.blogs.api.exception.BlogsMoudleException;import org.springframework.web.multipart.MultipartFile;import java.io.IOException;import java.util.Map;/** * 文件管理 */public interface FileManagerService {    Map multiFileUpload(MultipartFile[] multipartFiles, String uploadType) throws BlogsMoudleException, IOException;}

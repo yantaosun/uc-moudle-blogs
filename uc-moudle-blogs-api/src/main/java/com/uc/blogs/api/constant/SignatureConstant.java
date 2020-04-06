@@ -1,1 +1,0 @@
-package com.uc.blogs.api.constant;/** * @author 9527 * @ClassName CommonConstant * @Date 2020/2/13 * @Description * @Version 1.0 */public class SignatureConstant {    public static final String commonSignaturePrefix = "moudle";    public static final String commonSignatureSuffix = "blogs";    public static final String commonSignatureKey = "ucs_9527";}
